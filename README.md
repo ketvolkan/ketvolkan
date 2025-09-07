@@ -17,11 +17,28 @@ I’m passionate about learning new technologies, building scalable applications
 
 Here are some of my LinkedIn posts where I shared insights from my projects and development journey:  
 
-[![KetCRM | Project Management CRM](assets/1.jpeg)](https://www.linkedin.com/posts/ketvolkan_ketcrm-projeyaemnetimi-crm-activity-7362556471596716032-PSSz)  
-
-[![Flutter Nested Navigator with GetX](assets/2.jpeg)](https://www.linkedin.com/posts/ketvolkan_flutterda-i%CC%87%C3%A7-i%CC%87%C3%A7e-navigatora-son-getx-ile-activity-7335814265653592065-9Ca_)  
-
-[![Flutter Upload CI Tool](assets/3.jpeg)](https://www.linkedin.com/posts/ketvolkan_flutter-upload-ci-tool-activity-7100854345163767808-umMF)  
+<p align="center">
+  <a href="https://www.linkedin.com/posts/ketvolkan_ketcrm-projeyaemnetimi-crm-activity-7362556471596716032-PSSz">
+    <div align="center">
+      <b>KetCRM | Project Management CRM</b><br>
+      <img src="assets/1.jpeg" width="30%" />
+    </div>
+  </a>
+<br>
+  <a href="https://www.linkedin.com/posts/ketvolkan_flutterda-i%CC%87%C3%A7-i%CC%87%C3%A7e-navigatora-son-getx-ile-activity-7335814265653592065-9Ca_">
+    <div align="center">
+      <b>Flutter Nested Navigator with GetX</b><br>
+      <img src="assets/2.png" width="30%" />
+    </div>
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/posts/ketvolkan_flutter-upload-ci-tool-activity-7100854345163767808-umMF">
+    <div align="center">
+      <b>Flutter Upload CI Tool</b><br>
+      <img src="assets/3.jpeg" width="30%" />
+    </div>
+  </a>
+</p>
 
 ---
 
