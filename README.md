@@ -17,11 +17,11 @@ I’m passionate about learning new technologies, building scalable applications
 
 Here are some of my LinkedIn posts where I shared insights from my projects and development journey:  
 
-[![KetCRM | Project Management CRM](assets/ketcrm.png)](https://www.linkedin.com/posts/ketvolkan_ketcrm-projeyaemnetimi-crm-activity-7362556471596716032-PSSz)  
+[![KetCRM | Project Management CRM](assets/1.jpeg)](https://www.linkedin.com/posts/ketvolkan_ketcrm-projeyaemnetimi-crm-activity-7362556471596716032-PSSz)  
 
-[![Flutter Nested Navigator with GetX](assets/nested_navigator.png)](https://www.linkedin.com/posts/ketvolkan_flutterda-i%CC%87%C3%A7-i%CC%87%C3%A7e-navigatora-son-getx-ile-activity-7335814265653592065-9Ca_)  
+[![Flutter Nested Navigator with GetX](assets/2.jpeg)](https://www.linkedin.com/posts/ketvolkan_flutterda-i%CC%87%C3%A7-i%CC%87%C3%A7e-navigatora-son-getx-ile-activity-7335814265653592065-9Ca_)  
 
-[![Flutter Upload CI Tool](assets/flutter_upload.png)](https://www.linkedin.com/posts/ketvolkan_flutter-upload-ci-tool-activity-7100854345163767808-umMF)  
+[![Flutter Upload CI Tool](assets/3.jpeg)](https://www.linkedin.com/posts/ketvolkan_flutter-upload-ci-tool-activity-7100854345163767808-umMF)  
 
 ---
 
