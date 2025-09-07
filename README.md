@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Volkan 👋
 
-<!--
-**ketvolkan/ketvolkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Flutter Developer | Backend with Node.js | Frontend with React | Project Manager**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+Currently, I’m working as a **Flutter Developer**, building mobile applications.  
+I also develop **backends with Node.js** and **frontends with React**.  
+In addition, I’m actively working as a **Project Manager**.  
+
+I’m passionate about learning new technologies, building scalable applications, and creating value together with teams.  
+
+---
+
+## 📊 GitHub Stats  
+
+![Volkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketvolkan&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketvolkan&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ketvolkan&theme=radical)  
+
+---
+
+## 🔗 Contact Me  
+- 📧 **Email:** [ketvolkan1@gmail.com](mailto:ketvolkan1@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/ketvolkan](https://www.linkedin.com/in/ketvolkan/)  
+- 🐙 **GitHub:** [github.com/ketvolkan](https://github.com/ketvolkan)  
