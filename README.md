@@ -13,35 +13,6 @@ I’m passionate about learning new technologies, building scalable applications
 
 ---
 
-## 📝 LinkedIn Posts  
-
-Here are some of my LinkedIn posts where I shared insights from my projects and development journey:  
-
-<p align="center">
-  <a href="https://www.linkedin.com/posts/ketvolkan_ketcrm-projeyaemnetimi-crm-activity-7362556471596716032-PSSz">
-    <div align="center">
-      <b>KetCRM | Project Management CRM</b><br>
-      <img src="assets/1.jpeg" width="30%" />
-    </div>
-  </a>
-<br>
-  <a href="https://www.linkedin.com/posts/ketvolkan_flutterda-i%CC%87%C3%A7-i%CC%87%C3%A7e-navigatora-son-getx-ile-activity-7335814265653592065-9Ca_">
-    <div align="center">
-      <b>Flutter Nested Navigator with GetX</b><br>
-      <img src="assets/2.png" width="30%" />
-    </div>
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/posts/ketvolkan_flutter-upload-ci-tool-activity-7100854345163767808-umMF">
-    <div align="center">
-      <b>Flutter Upload CI Tool</b><br>
-      <img src="assets/3.jpeg" width="30%" />
-    </div>
-  </a>
-</p>
-
----
-
 ## 📱 Flutter Projects  
 
 ### Salon Randevu, En Randevu, Salon Management  
@@ -84,6 +55,34 @@ SMS messages with personalized titles to their recipients.
 
 ---
 
+## 📝 LinkedIn Posts  
+
+Here are some of my LinkedIn posts where I shared insights from my projects and development journey:  
+
+<p align="center">
+  <a href="https://www.linkedin.com/posts/ketvolkan_ketcrm-projeyaemnetimi-crm-activity-7362556471596716032-PSSz">
+    <div align="center">
+      <b>KetCRM | Project Management CRM</b><br>
+      <img src="assets/1.jpeg" width="30%" />
+    </div>
+  </a>
+<br>
+  <a href="https://www.linkedin.com/posts/ketvolkan_flutterda-i%CC%87%C3%A7-i%CC%87%C3%A7e-navigatora-son-getx-ile-activity-7335814265653592065-9Ca_">
+    <div align="center">
+      <b>Flutter Nested Navigator with GetX</b><br>
+      <img src="assets/2.png" width="30%" />
+    </div>
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/posts/ketvolkan_flutter-upload-ci-tool-activity-7100854345163767808-umMF">
+    <div align="center">
+      <b>Flutter Upload CI Tool</b><br>
+      <img src="assets/3.jpeg" width="30%" />
+    </div>
+  </a>
+</p>
+
+---
 ## 🔗 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Volkan%20Ket-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ketvolkan/)  
 [![GitHub](https://img.shields.io/badge/GitHub-ketvolkan-black?style=for-the-badge&logo=github)](https://github.com/ketvolkan)  
