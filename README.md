@@ -1,89 +1,75 @@
 # Hi, I'm Volkan 👋
 
-💻 **Flutter Developer | Backend with Node.js | Frontend with React | Project Manager**
+💻 **Mobile & Full-Stack Developer | Flutter • .NET / C# • Node.js • React | Project Manager**
 
 ---
 
 ## 🚀 About Me  
-Currently, I’m working as a **Flutter Developer**, building mobile applications.  
-I also develop **backends with Node.js** and **frontends with React**.  
-In addition, I’m actively working as a **Project Manager**.  
+- 📱 Mobile application development with **Flutter & Dart**
+- ⚙️ Scalable backend development with **.NET (C#)** & **Node.js**
+- 🌐 Frontend web interfaces with **React**
+- 📋 Agile & task-driven team workflows as a **Project Manager**
 
-I’m passionate about learning new technologies, building scalable applications, and creating value together with teams.  
+I’m passionate about learning new technologies, building clean & scalable architectures, and creating real-world value with great teams.
 
 ---
 
-## 📱 Flutter Projects  
+## 🛠️ Tech Stack & Tools
+
+### Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Databases
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Management & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 📱 Mobile (Flutter) Projects  
 
 ### Salon Randevu, En Randevu, Salon Management  
-Among the applications I developed for the company I work for, there is a salon management app that handles  
-appointment scheduling, order management, and accounting. Since there are different customer profiles, we created three  
-separate solutions from a single app. You can find more details about this system in the posts I've shared on my LinkedIn  
-profile.  
+A salon management system handling appointment scheduling, order management, and accounting. Tailored into three separate solutions from a single codebase to serve different customer segments. Check out my LinkedIn profile for architectural details.  
 
 ---
 
 ### Wamessage | Bulk WhatsApp Messaging  
-A version of the SMS app that enables sending bulk messages via WhatsApp.  
+An SMS-integrated automation app enabling bulk message delivery directly via WhatsApp.  
 
 ---
 
 ### Vayonet | Site Management  
-An app that allows apartment managements to handle tasks such as collecting dues and sharing announcements.  
+A facility/apartment management app facilitating dues collection, resident tracking, and community announcements.  
 
 ---
 
 ### Couple | Keep Your Memories  
-The app I developed as my own venture, where I wrote both the backend and the mobile side myself, allows couples to  
-share and track their special days and memories with each other.  
+A personal startup project where I built both the mobile client and backend services. Allows couples to save, track, and celebrate their special moments together.  
 
 ---
 
 ### VatanSms Net, VatanSms Com, ZorluSms, TopluSms  
-Bulk SMS sending apps for businesses, institutions, and communities in Turkey. Customers can easily send pre-prepared  
-SMS messages with personalized titles to their recipients.  
+Bulk SMS delivery applications for businesses and organizations across Turkey, supporting personalized titles and scheduling.  
 
 ---
 
-## 📊 GitHub Stats  
+## ⚙️ Backend & .NET Projects
 
-![Volkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketvolkan&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketvolkan&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ketvolkan&theme=radical)  
+> *Currently developing high-performance RESTful APIs, Clean Architecture solutions, and microservices with .NET & ASP.NET Core.*
 
 ---
 
-## 📝 LinkedIn Posts  
 
-Here are some of my LinkedIn posts where I shared insights from my projects and development journey:  
-
-<p align="center">
-  <a href="https://www.linkedin.com/posts/ketvolkan_ketcrm-projeyaemnetimi-crm-activity-7362556471596716032-PSSz">
-    <div align="center">
-      <b>KetCRM | Project Management CRM</b><br>
-      <img src="assets/1.jpeg" width="30%" />
-    </div>
-  </a>
-<br>
-  <a href="https://www.linkedin.com/posts/ketvolkan_flutterda-i%CC%87%C3%A7-i%CC%87%C3%A7e-navigatora-son-getx-ile-activity-7335814265653592065-9Ca_">
-    <div align="center">
-      <b>Flutter Nested Navigator with GetX</b><br>
-      <img src="assets/2.png" width="30%" />
-    </div>
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/posts/ketvolkan_flutter-upload-ci-tool-activity-7100854345163767808-umMF">
-    <div align="center">
-      <b>Flutter Upload CI Tool</b><br>
-      <img src="assets/3.jpeg" width="30%" />
-    </div>
-  </a>
-</p>
-
----
 ## 🔗 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Volkan%20Ket-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ketvolkan/)  
 [![GitHub](https://img.shields.io/badge/GitHub-ketvolkan-black?style=for-the-badge&logo=github)](https://github.com/ketvolkan)  
-[![Gmail](https://img.shields.io/badge/Email-ketvolkan1%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ketvolkan1@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-ketvolkan1%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ketvolkan1@gmail.com)
