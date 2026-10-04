@@ -1,6 +1,6 @@
 # Hi, I'm Volkan 👋
 
-💻 **Mobile & Full-Stack Developer | Flutter • .NET / C# • Node.js • React |**
+💻 **Mobile & Full-Stack Developer | Flutter • .NET / C# • React |**
 
 ---
 
